@@ -32,6 +32,9 @@
 	// Set the clock's font color:
 	var myfont_color = "#FFFFFF";
 
+	// Set the clock's background:
+	var myback_color = "#000000";
+
 	// Set the text to display before the clock:
 	var mypre_text = "The time is: ";
 
