@@ -30,10 +30,7 @@
 	var myfont_size = "10";
 
 	// Set the clock's font color:
-	var myfont_color = "#000000";
-	
-	// Set the clock's background color:
-	var myback_color = "#FFFFFF";
+	var myfont_color = "#FFFFFF";
 
 	// Set the text to display before the clock:
 	var mypre_text = "The time is: ";
@@ -52,7 +49,7 @@
 
 	// Display the date?
 	// 0 = No, 1 = Yes
-	var DisplayDate = 0;
+	var DisplayDate = 1;
 
 /////////////// END CONFIGURATION /////////////////////////
 ///////////////////////////////////////////////////////////
